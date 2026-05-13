@@ -3,6 +3,15 @@
 <!--
 **Martin-Umpierrez/Martin-Umpierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## R Packages
+
+| Package | Description | Status |
+|--------|-------------|--------|
+| [exevalPPK](https://github.com/Martin-Umpierrez/exevalPPK) | External evaluation tools for popPK models | Active |
+| [preDose](https://github.com/Martin-Umpierrez/preDose) | Bayesian dosing tools | Development |
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
