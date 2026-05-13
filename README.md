@@ -1,10 +1,8 @@
-## Hi there 👋
-
 # Hi, I'm Martin Umpierrez 👋
 
 Pharmacometrics • Population PK • MIPD • Therapeutic Drug Monitoring • R Developer
 
-I work on model-informed precision dosing, population pharmacokinetics, and translational clinical pharmacology, with a focus on kidney transplantation and Bayesian forecasting.
+I work on model-informed precision dosing (MIPD), population pharmacokinetics, and translational clinical pharmacology, with a focus on kidney transplantation and Bayesian forecasting.
 
 ---
 
@@ -15,6 +13,7 @@ I work on model-informed precision dosing, population pharmacokinetics, and tran
 - Model-informed precision dosing (MIPD)
 - Therapeutic drug monitoring (TDM)
 - External model evaluation
+- Model-Averaging Algorithms
 - Clinical decision support tools
 - R package development
 
@@ -24,7 +23,6 @@ I work on model-informed precision dosing, population pharmacokinetics, and tran
 
 | Package | Description | GitHub | Status |
 |--------|-------------|--------|--------|
-| [exevalPPK](https://github.com/Martin-Umpierrez/exevalPPK) | External evaluation framework for population pharmacokinetic models | ![devel](https://img.shields.io/badge/devel%20version-0.1.0-orange) | ![status](https://img.shields.io/badge/status-active-brightgreen) |
 | [preDose](https://github.com/Martin-Umpierrez/preDose) | Bayesian dosing and MAP estimation workflows for PK models | ![devel](https://img.shields.io/badge/devel%20version-development-orange) | ![status](https://img.shields.io/badge/status-active-brightgreen) |
 
 ---
