@@ -23,10 +23,10 @@ I work on model-informed precision dosing (MIPD), population pharmacokinetics, a
 
 | Package | Description | CRAN | GitHub | Status |
 |---------|-------------|------|--------|--------|
-| [exeval](https://github.com/Martin-Umpierrez/exeval) | Bayesian dosing and MAP estimation workflows for PK models |  | ![devel](https://img.shields.io/badge/devel%20version-development-green) | ![status](https://img.shields.io/badge/status-active-brightgreen) |
+| [exeval](https://github.com/Martin-Umpierrez/exeval) | Bayesian dosing and MAP estimation workflows for PK models |  |[![](https://img.shields.io/badge/devel%20version-0.1.4-orange.svg)]()   | ![status](https://img.shields.io/badge/status-active-brightgreen) |
 
 ---
-
+[![](https://img.shields.io/badge/devel%20version-0.1.4-orange.svg)]()  
 ## Current Work
 
 🔬 Developing tools for external evaluation of population PK models
