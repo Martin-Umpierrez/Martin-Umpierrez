@@ -21,6 +21,11 @@ I work on model-informed precision dosing (MIPD), population pharmacokinetics, a
 
 ## R Packages
 
+| Package | Description | CRAN | Downloads | GitHub | Status |
+|---------|-------------|------|-----------|--------|--------|
+| [exeval](https://github.com/Martin-Umpierrez/exeval) | Bayesian dosing and MAP estimation workflows for PK models | [![CRAN status](https://www.r-pkg.org/badges/version/exeval)](https://cran.r-project.org/package=exeval) | [![Downloads](https://cranlogs.r-pkg.org/badges/last-month/exeval)](https://cran.r-project.org/package=exeval) | [![](https://img.shields.io/badge/devel%20version-0.1.0-orange.svg)](https://github.com/Martin-Umpierrez/exeval) | ![](https://img.shields.io/badge/status-active-brightgreen) |
+
+
 | Package | Description | CRAN | GitHub | Status |
 |---------|-------------|------|--------|--------|
 | [exeval](https://github.com/Martin-Umpierrez/exeval) | Bayesian dosing and MAP estimation workflows for PK models | [![CRAN\_Status\_Badge]([https://www.r-pkg.org](https://cran.r-project.org/web/packages/exeval/index.html)/badges/version/exeval)]([https://cran.r-project.org/package=BayesSPsurv](https://cran.r-project.org/web/packages/exeval/index.html))  |[![](https://img.shields.io/badge/devel%20version-0.1.0-orange.svg)]()   | ![status](https://img.shields.io/badge/status-active-brightgreen) |
