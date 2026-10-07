@@ -21,6 +21,16 @@ I work on model-informed precision dosing (MIPD), population pharmacokinetics, a
 
 ## R Packages
 
+## R Packages & Tools
+
+| Package / Tool | Description | CRAN | Downloads | GitHub | Status |
+|---------|-------------|------|-----------|--------|--------|
+| [**exeval**](https://github.com/Martin-Umpierrez/exeval) | Bayesian dosing and MAP estimation workflows for PK models | [![CRAN status](https://www.r-pkg.org/badges/version/exeval)](https://cran.r-project.org/package=exeval) | [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/exeval)](https://cran.r-project.org/package=exeval) | [![devel version](https://img.shields.io/badge/devel%20version-0.1.0-orange.svg)](https://github.com/Martin-Umpierrez/exeval) | ![status](https://img.shields.io/badge/status-active-brightgreen) |
+| [**Shiny eXeval**](https://github.com/Martin-Umpierrez/Shiny_exeval) | Shiny application for interactive external evaluation of population PK models | — | — | [![devel version](https://img.shields.io/badge/devel%20version-0.1.0-yellow.svg)](https://github.com/Martin-Umpierrez/Shiny_exeval) | ![status](https://img.shields.io/badge/status-under%20testing-yellow) |
+
+---
+
+
 | Package | Description | CRAN | Downloads | GitHub | Status |
 |---------|-------------|------|-----------|--------|--------|
 | [exeval](https://github.com/Martin-Umpierrez/exeval) | Bayesian dosing and MAP estimation workflows for PK models | [![CRAN status](https://www.r-pkg.org/badges/version/exeval)](https://cran.r-project.org/package=exeval) | [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/exeval)](https://cran.r-project.org/package=exeval) | [![](https://img.shields.io/badge/devel%20version-0.1.0-orange.svg)](https://github.com/Martin-Umpierrez/exeval) | ![](https://img.shields.io/badge/status-active-brightgreen) |
